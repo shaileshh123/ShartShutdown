@@ -1,0 +1,9 @@
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\bin\Debug\StartShutdownTime.exe.config
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\bin\Debug\StartShutdownTime.exe
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\bin\Debug\StartShutdownTime.pdb
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\obj\Debug\StartShutdownTime.Form1.resources
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\obj\Debug\StartShutdownTime.Properties.Resources.resources
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\obj\Debug\StartShutdownTime.csproj.GenerateResource.cache
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\obj\Debug\StartShutdownTime.exe
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\obj\Debug\StartShutdownTime.pdb
+D:\Project - Seva\StartShutdownTime\StartShutdownTime\obj\Debug\StartShutdownTime.csprojAssemblyReference.cache

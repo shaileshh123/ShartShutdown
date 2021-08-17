@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartShutdownTime", "StartShutdownTime\StartShutdownTime.csproj", "{90D22427-F459-412B-8538-E6880F740C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D22427-F459-412B-8538-E6880F740C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D22427-F459-412B-8538-E6880F740C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D22427-F459-412B-8538-E6880F740C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D22427-F459-412B-8538-E6880F740C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9038470-206D-4BBD-BC45-DDDD58F7B11C}
+	EndGlobalSection
+EndGlobal
